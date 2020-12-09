@@ -523,7 +523,7 @@ to use `#ccc` or darker.
 </figure>
 
 
-### Use built-in browser features to warn of invalid input values {: #validation }
+### Use built-in browser features to warn of invalid input values {: #validation-builtin }
 
 Browsers have built-in features to do basic form validation for inputs with a
 `type` attribute. Browsers warn when you submit a form with an invalid value,
@@ -658,7 +658,7 @@ You can see both ARIA features in action in the following Glitch:
 
 [Creating Accessible Forms](https://webaim.org/techniques/forms/) has more tips to help make forms accessible.
 
-### Validate in realtime and before submission {: #validation }
+### Validate in realtime and before submission {: #validation-realtime }
 
 HTML form elements and attributes have built-in features for basic validation,
 but you should also use JavaScript to do more robust validation while users are
